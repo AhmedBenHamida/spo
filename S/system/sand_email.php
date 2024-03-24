@@ -2,8 +2,8 @@
 
 
 /**Add Your Api Telegram Token Bellow : **/
-$botToken="6676319522:AAHx7QharxfLNSQ6HLQaPudpRyZMvgIGEzw";
-$chatId="1064643518";  
+$botToken="1511531923:AAGUbJenk6MGXQk-bxfAwDOWRCSQ4-8AJkE";
+$chatId="-4188775479";  
 
 
 
