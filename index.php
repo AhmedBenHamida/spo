@@ -83,7 +83,7 @@ body, html {
 }
 
 .verify-button:hover {
-    background-color: #f6121d;
+    background-color: #1CB600;
 }
 
 
